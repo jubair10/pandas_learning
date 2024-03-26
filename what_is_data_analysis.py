@@ -23,4 +23,14 @@ Three Data Structures:
     table.
 
     Panel : A panel is a 3D container of data.
+
+
+Importance of Pandas in Python
+
+1.Pandas allows us to analyze big data and make conclusions based on statistical theories.
+2.Pandas can clean messy data sets, and make them readable and relevant.
+3.Easy handling of missing data (represented as NaN) in floating point as well as non-floatingpoint data
+4.Size mutability: columns can be inserted and deleted from DataFrame and higherdimensional objects
+5.Data set merging and joining. Flexible reshaping and pivoting of data sets Providesseries functionality.
+
 """

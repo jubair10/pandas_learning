@@ -41,3 +41,21 @@ DataFrames are two-dimensional data structures with columns, similar to tables i
 A Panel is a three-dimensional container of data. It is less commonly used compared to Series and DataFrames and is mainly used for working with three-dimensional data sets.
 
 Pandas offers a comprehensive set of tools for data analysis and manipulation in Python, making it a powerful library for various data-related tasks.
+
+
+
+### Difference between DataFrame and Series
+
+#### DataFrame
+
+|   | Name  | Age | City       |
+|---|-------|-----|------------|
+| 0 | John  | 30  | New York   |
+| 1 | Alice | 25  | Los Angeles|
+| 2 | Bob   | 35  | Chicago    |
+
+#### Series
+
+- **Name**: [John, Alice, Bob]
+- **Age**: [30, 25, 35]
+- **City**: [New York, Los Angeles, Chicago]

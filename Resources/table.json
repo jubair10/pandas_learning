@@ -1,0 +1,6 @@
+{
+  "Name": { "0": "John", "1": "Alice", "2": "Bob" },
+  "Country": { "0": "USA", "1": "Canada", "2": "UK" },
+  "Age": { "0": 30, "1": 25, "2": 35 },
+  "City": { "0": "New York", "1": "Los Angeles", "2": "Chicago" }
+}
